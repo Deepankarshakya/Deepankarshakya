@@ -3,11 +3,17 @@
 
 Aspiring React Native Developer | AI & Machine Learning Enthusiast | BCA Student
 👨‍💻 About Me
+
 • 🎓 BCA Student (CGPA: 3.135 ~ 78%)
+
 • 📱 React Native Developer (Learning & Building Projects)
+
 • 🤖 Interested in Artificial Intelligence & Machine Learning
+
 • 🌱 Exploring Supabase, TypeScript, and Mobile Backend Development
+
 • 💡 Passionate about building practical applications and solving real-world problems
+
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, JavaScript (ES6+), React, React Native
 Languages: Java, Python, JavaScript, C
@@ -45,7 +51,7 @@ Tools: Git, GitHub, VS Code, Android Studio, Postman, Figma, Canva, Photoshop
 
 📫 Connect With Me
 Email: shakyadeepankar002@gmail.com
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+GitHub: https://github.com/Deepankarshakya
+LinkedIn: https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/deepankar-shakya-9b807b232/
 
 ⭐ Learning by building real-world projects every day.
