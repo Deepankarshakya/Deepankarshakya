@@ -1,111 +1,50 @@
-# 🚀 Full Stack Developer Portfolio
+🚀 Deepankar Shakya
 
-Hi 👋, I'm Deepankar Shakya
-A passionate Full Stack Developer focused on building scalable web applications and clean user experiences.
+Aspiring React Native Developer | AI & Machine Learning Enthusiast | BCA Student
+👨‍💻 About Me
+• 🎓 BCA Student (CGPA: 3.135 ~ 78%)
+• 📱 React Native Developer (Learning & Building Projects)
+• 🤖 Interested in Artificial Intelligence & Machine Learning
+• 🌱 Exploring Supabase, TypeScript, and Mobile Backend Development
+• 💡 Passionate about building practical applications and solving real-world problems
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+), React, React Native
+Languages: Java, Python, JavaScript, C
+Database: MySQL, SQLite, Supabase (Learning)
+AI/ML: Scikit-Learn, Logistic Regression, SVM, Data Analysis
+Tools: Git, GitHub, VS Code, Android Studio, Postman, Figma, Canva, Photoshop
+📂 Featured Projects
+🔹 AI-Powered Emotion Detection Chatbot
+   - Emotion detection using Machine Learning
+   - Mood tracking and NLP-based responses
+   - Built for cross-platform environments
 
----
+🔹 Workout Planner App
+   - React Native mobile application
+   - Exercise tracking and workout planning
+   - Planned Supabase integration
 
-## 🧑‍💻 About Me
+🔹 Academic & Learning Projects
+   - Data Structures & Algorithms
+   - Java Applications
+   - Web Development Projects
+🎯 Current Focus
+• React Native Development
+• TypeScript
+• Supabase
+• Mobile App Architecture
+• Backend Fundamentals
+• Advanced Machine Learning
+🏆 Career Goals
+• Become a professional React Native Developer
+• Build AI-powered mobile applications
+• Contribute to open-source projects
+• Secure a Software Development role
+• Continuously improve problem-solving skills
 
-* 💻 Full Stack Developer (MERN Stack)
-* 🌱 Currently learning: Advanced Backend & System Design
-* ⚡ Love building real-world projects and solving problems
-* 📫 Reach me at: **[shakyadeepankar002@gmail.com](mailto:shakyadeepankar002@gmail.com**
+📫 Connect With Me
+Email: shakyadeepankar002@gmail.com
+GitHub: https://github.com/YOUR_USERNAME
+LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-
-* HTML5, CSS3, JavaScript (ES6+)
-* React.js
-* Tailwind CSS / Bootstrap
-
-### 🔧 Backend
-
-* Node.js
-* Express.js
-
-### 🗄️ Database
-
-* MongoDB
-* MySQL (basic)
-
-### ⚙️ Tools & Technologies
-
-* Git & GitHub
-* REST APIs
-* Postman
-* VS Code
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Project 1: Task Manager App
-
-* Full-stack task management application
-* User authentication (JWT)
-* CRUD operations
-
-👉 Live Demo: https://your-link.com
-👉 GitHub: https://github.com/your-username/project
-
----
-
-### 🔹 Project 2: E-commerce Website
-
-* Product listing & cart system
-* Payment integration (optional)
-* Responsive UI
-
-👉 Live Demo: https://your-link.com
-👉 GitHub: https://github.com/your-username/project
-
----
-
-### 🔹 Project 3: Social Media App
-
-* User profiles & posts
-* Like & comment features
-* REST API backend
-
-👉 Live Demo: https://your-link.com
-👉 GitHub: https://github.com/your-username/project
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
-
----
-
-## 🔗 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
-* Portfolio: https://your-portfolio.com
-
----
-
-## 📌 Current Goals
-
-* 🚀 Become a job-ready full stack developer
-* 📚 Improve DSA & problem-solving
-* 🌐 Contribute to open source
-
----
-
-## ⭐ Support
-
-If you like my work, give a ⭐ to my repositories!
-
----
-
-
-<!---
-Deepankarshakya/Deepankarshakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Learning by building real-world projects every day.
